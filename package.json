@@ -1,0 +1,23 @@
+{
+  "name": "cmaturana-playwright-exam",
+  "version": "1.0.0",
+  "description": "this repo is for playwright exam",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tink01/cmaturana-playwright-exam.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/tink01/cmaturana-playwright-exam/issues"
+  },
+  "homepage": "https://github.com/tink01/cmaturana-playwright-exam#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.53.2",
+    "@types/node": "^24.0.10"
+  }
+}
